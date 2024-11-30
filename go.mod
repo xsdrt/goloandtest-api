@@ -1,4 +1,4 @@
-module my-first-api
+module github.com/xsdrt/goloandtest-api
 
 go 1.23.3
 

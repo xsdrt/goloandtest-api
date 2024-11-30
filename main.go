@@ -1,10 +1,10 @@
 package main
 
 import (
+	"github.com/xsdrt/goloandtest-api/internal/db"
+	"github.com/xsdrt/goloandtest-api/internal/todo"
+	"github.com/xsdrt/goloandtest-api/internal/transport"
 	"log"
-	"my-first-api/internal/db"
-	"my-first-api/internal/todo"
-	"my-first-api/internal/transport"
 )
 
 func main() {
